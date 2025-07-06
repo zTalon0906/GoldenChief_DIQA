@@ -1,5 +1,7 @@
 # GoldenChief_DIQA
 # Environment
+conda create -n GoldenChief_DIQA python=3.10
+pip install requirment.txt
 pip install .
 # Model Weights
 https://pan.baidu.com/s/1ahJ9r3E2M0VT65ABtffVrA?pwd=hfpd
